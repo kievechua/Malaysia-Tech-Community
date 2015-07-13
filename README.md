@@ -7,8 +7,6 @@
 
 # Malaysia Tech Community
 
-    List of all active tech community in Malaysia! Please fork and send pull request!
-
 - Javascript.my
 
     Welcome fellow JavaScript developers! JavaScript.my is for JavaScript enthusiasts in Malaysia and all around the world.
