@@ -225,7 +225,7 @@ Gaming rig discussion
 - [FB Group](https://www.facebook.com/groups/startupjobsmalaysia/)
 
 ### mydev.my
-An effort to enrich software development resources in Malay language.
+An effort to enrich software development resources in national (Malay) language.
 - articles, tips, best practices
 - [Website](http://www.mydev.my)
 - [Github](https://github.com/mydevcommunity)
