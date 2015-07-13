@@ -1,44 +1,38 @@
 ### Format
-- [Name]
+## [Name]
 
-    [Description, Twitter style 140 characters]
+[Description, Twitter style 140 characters]
 
-    - Related links
+- Related links
 
 # Malaysia Tech Community
 
-- Javascript.my
+## Javascript.my
 
-    Welcome fellow JavaScript developers! JavaScript.my is for JavaScript enthusiasts in Malaysia and all around the world.
+Welcome fellow JavaScript developers! JavaScript.my is for JavaScript enthusiasts in Malaysia and all around the world.
 
-    - [Homepage](http://javascript.my)
-    - [Github](https://github.com/javascriptmy)
-    - [FB Group](https://www.facebook.com/groups/javascript.my)
-
-
-- Java User Group
-    - [FB Group](https://www.facebook.com/groups/jug.my/)
+* [Homepage](http://javascript.my)
+* [Github](https://github.com/javascriptmy)
+* [FB Group](https://www.facebook.com/groups/javascript.my)
 
 
-- WebCamp KL
-    - [FB Group](https://www.facebook.com/groups/webcamp/)
+## Java User Group
+- [FB Group](https://www.facebook.com/groups/jug.my/)
 
+## WebCamp KL
+- [FB Group](https://www.facebook.com/groups/webcamp/)
 
-- WCKL Soap Box
-    - [FB Group](https://www.facebook.com/groups/wcklsoapbox/)
+## WCKL Soap Box
+- [FB Group](https://www.facebook.com/groups/wcklsoapbox/)
 
+## WCKL Jobs
+- [FB Group](https://www.facebook.com/groups/wckljobs/)
 
-- WCKL Jobs
-    - [FB Group](https://www.facebook.com/groups/wckljobs/)
+## Programming Laman Web + UI/UX
+- [FB Group](https://www.facebook.com/groups/jomweb/)
 
+## DevOps Malaysia
+- [FB Group](https://www.facebook.com/groups/devopsmalaysia/)
 
-- Programming Laman Web + UI/UX
-    - [FB Group](https://www.facebook.com/groups/jomweb/)
-
-
-- DevOps Malaysia
-    - [FB Group](https://www.facebook.com/groups/devopsmalaysia/)
-
-
-- Malaysia Tech Startups
-    - [FB Group](https://www.facebook.com/groups/MalaysiaTechStartups/)
+## Malaysia Tech Startups
+- [FB Group](https://www.facebook.com/groups/MalaysiaTechStartups/)
