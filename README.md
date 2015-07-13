@@ -1,5 +1,5 @@
-### Format
-## [Name]
+## Format
+### [Name]
 
 [Description, Twitter style 140 characters]
 
@@ -7,7 +7,7 @@
 
 # Malaysia Tech Community
 
-## Javascript.my
+### Javascript.my
 
 Welcome fellow JavaScript developers! JavaScript.my is for JavaScript enthusiasts in Malaysia and all around the world.
 
@@ -16,23 +16,23 @@ Welcome fellow JavaScript developers! JavaScript.my is for JavaScript enthusiast
 * [FB Group](https://www.facebook.com/groups/javascript.my)
 
 
-## Java User Group
+### Java User Group
 - [FB Group](https://www.facebook.com/groups/jug.my/)
 
-## WebCamp KL
+### WebCamp KL
 - [FB Group](https://www.facebook.com/groups/webcamp/)
 
-## WCKL Soap Box
+### WCKL Soap Box
 - [FB Group](https://www.facebook.com/groups/wcklsoapbox/)
 
-## WCKL Jobs
+### WCKL Jobs
 - [FB Group](https://www.facebook.com/groups/wckljobs/)
 
-## Programming Laman Web + UI/UX
+### Programming Laman Web + UI/UX
 - [FB Group](https://www.facebook.com/groups/jomweb/)
 
-## DevOps Malaysia
+### DevOps Malaysia
 - [FB Group](https://www.facebook.com/groups/devopsmalaysia/)
 
-## Malaysia Tech Startups
+### Malaysia Tech Startups
 - [FB Group](https://www.facebook.com/groups/MalaysiaTechStartups/)
