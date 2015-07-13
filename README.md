@@ -1,9 +1,12 @@
 ## Format
+
+```
 ### [Name]
 
 [Description, Twitter style 140 characters]
 
 - Related links
+```
 
 # Malaysia Tech Community
 
