@@ -39,3 +39,9 @@ Welcome fellow JavaScript developers! JavaScript.my is for JavaScript enthusiast
 
 ### Malaysia Tech Startups
 - [FB Group](https://www.facebook.com/groups/MalaysiaTechStartups/)
+
+### ForwardSlash : App/Web Designers & Front-end Web Developers
+- [FB Group](https://www.facebook.com/groups/webdesigners.frontenddev/)
+- [Github](https://github.com/theforwardslash)
+- [Slack](https://juara.slack.com/)
+- [Website](http://forwardslash.io/)
