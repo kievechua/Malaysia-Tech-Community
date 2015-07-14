@@ -224,6 +224,14 @@ Gaming rig discussion
 ### Startup Jobs Malaysia
 - [FB Group](https://www.facebook.com/groups/startupjobsmalaysia/)
 
+### Komuniti MyDev
+An effort to enrich software development resources in national (Malay) language.
+- articles, tips, best practices
+- [Website](http://www.mydev.my)
+- [Github](https://github.com/mydevcommunity)
+- [G+](https://plus.google.com/communities/104883828501447858589)
+- [Subreddit](https://www.reddit.com/r/mydev)
+
 
 
 #### References
