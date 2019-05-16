@@ -18,6 +18,11 @@ Welcome fellow JavaScript developers! JavaScript.my is for JavaScript enthusiast
 - [Github](https://github.com/javascriptmy)
 - [FB Group](https://www.facebook.com/groups/javascript.my)
 
+### KualaLumpurJS
+Monthly meetups. All things JavaScript.
+- javascript, node.js
+- [FB Group](https://www.facebook.com/groups/kualalumpurjs)
+
 ### Programming Laman Web + UI/UX
 - javascript
 - [FB Group](https://www.facebook.com/groups/jomweb/)
